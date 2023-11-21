@@ -13,21 +13,22 @@ function App() {
     createRoutesFromElements(
       <Route path="/" element={<Root />} >
         <Route index element={<Home />} />
-        <Route element={<Contact /> } />
-        <Route element={<Resume /> } />
-        <Route element={<Projects /> } />
-        <Route element={<About /> } />
+        <Route path="/cotact" element={<Contact /> } />
+        <Route path="/resume" element={<Resume /> } />
+        <Route path="/projects" element={<Projects /> } />
+        <Route  path="/about" element={<About /> } />
         
         </Route>
     )
-  )
+  );
   
-
+<div>home page</div>
   return (
-    <>
-     <h1>Hello</h1>
-     <Footer/>
-    </>
+    
+     <div className="App">
+      <RouterProvider router={router}/>
+</div>
+    
   )
 }
 

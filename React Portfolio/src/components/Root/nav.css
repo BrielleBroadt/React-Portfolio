@@ -1,0 +1,27 @@
+:root {
+    --basic:#454545;
+    --lighter:#FDF5E6;
+    --light:#FAFAD2;
+    --medium: #FFDAB9;
+    --dark:#F5DEB3;
+    --darker: #BC8F8F;
+}
+
+
+.nav {
+    display:flex;
+    gap: 1rem;
+    padding: 1rem;
+    justify-content: flex-end;
+    background-color: var(--basic);
+margin-top:0;
+}
+
+.nav-item {
+list-style: none;
+color: var(--lighter);
+}
+
+.nav-item:hover{
+    cursor:pointer;
+}

@@ -77,7 +77,8 @@ const Contact = () => {
     }
   };
   return (
-    <form onSubmit={handleSubmit}>
+    <div className="formShit">
+    <form className="form" onSubmit={handleSubmit}>
       <div>
         <label htmlFor="name">Name</label>
         <input
@@ -112,6 +113,7 @@ const Contact = () => {
       </div>
       <button type="submit">Submit</button>
     </form>
+    </div>
   )
 }
 

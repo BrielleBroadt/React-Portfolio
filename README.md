@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 
 https://youtu.be/z0vaVoxMoSA?si=5KH6wpn2cQdTR5At
+
+materialize

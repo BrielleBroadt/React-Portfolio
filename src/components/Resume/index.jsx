@@ -8,11 +8,11 @@ const ResumeDocument = () => {
     <Document>
       <Page size="A4" style={styles.page}>
         <View style={styles.section}>
-          <Text style={styles.header}>Your Name</Text>
+          <Text style={styles.header}>Brielle Broadt</Text>
           <Text style={styles.subHeader}>Contact Information:</Text>
-          {/* Add your contact information */}
-          <Text>Email: your@email.com</Text>
-          <Text>Phone: 123-456-7890</Text>
+          <Text>Address: 164 Eaves Mill Road, Medford, NJ, 08055</Text>
+          <Text>Email: brielleb.broadt.com</Text>
+          <Text>Phone: 609-257-8287</Text>
           {/* Add more sections as needed */}
         </View>
       </Page>

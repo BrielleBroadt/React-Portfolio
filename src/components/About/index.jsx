@@ -8,9 +8,8 @@ const About = () => {
         <img src={profilepic} alt="meeee" />
       </div>
       <div className="about-me-content">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-          Inventore sapiente aliquid quasi quo natus in, saepe non quia voluptatibus, 
-          fugit illum id, maiores laboriosam sit ducimus similique necessitatibus error omnis?</p>
+        <p>Welcome to my corner of the digital world! I'm Brielle Broadt, a recent graduate of the Rutgers University Coding Bootcamp, Where I successfully earned my certificate as a Full stack Web Developer. Stepping into the world of web development has been an exciting journey. 
+          Throughout the bootcamp I had the opportunity to work on diverse challanges and projects that you can find once you click projects!</p>
       </div>
     </div>
   )

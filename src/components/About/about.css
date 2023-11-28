@@ -1,3 +1,12 @@
+:root {
+    --basic:#454545;
+    --lighter:#FDF5E6;
+    --light:#FAFAD2;
+    --medium: #FFDAB9;
+    --dark:#F5DEB3;
+    --darker: #BC8F8F;
+}
+
 img {
     width: 100%;
 }
@@ -24,5 +33,7 @@ img {
     display:flex; 
     flex-wrap: wrap;
     justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
 
 }

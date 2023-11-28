@@ -7,16 +7,16 @@ const Root = () => {
     <>
      <ul className="nav">
       <li className="nav-item">
-      <Link to="/"> About </Link> 
+      <Link className="navy" to="/"> About </Link> 
       </li>
       <li className="nav-item">
-      <Link to="/contact"> Contact </Link>
+      <Link className="navy" to="/contact"> Contact </Link>
       </li>
       <li className="nav-item">
-      <Link to="/projects"> Projects </Link>
+      <Link className="navy"  to="/projects"> Projects </Link>
       </li>
       <li className="nav-item">
-      <Link to="/resume"> Resume </Link>
+      <Link className="navy" to="/resume"> Resume </Link>
       </li>
      </ul>
 

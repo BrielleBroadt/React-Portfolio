@@ -14,14 +14,22 @@
     padding: 1rem;
     justify-content: flex-end;
     background-color: var(--basic);
-margin-top:0;
+    margin-top:1;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
+.navy{
+    color:var(--darker);
+    font-size:medium;
+    font-size:large;
+ 
+}
 .nav-item {
 list-style: none;
-color: var(--lighter);
+
 }
 
 .nav-item:hover{
     cursor:pointer;
+    background-color: var(--lighter);
+  
 }

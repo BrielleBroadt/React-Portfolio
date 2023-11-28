@@ -13,7 +13,10 @@ const ResumeDocument = () => {
           <Text>Address: 164 Eaves Mill Road, Medford, NJ, 08055</Text>
           <Text>Email: brielleb.broadt.com</Text>
           <Text>Phone: 609-257-8287</Text>
-          {/* Add more sections as needed */}
+          <Text>Looking to transition my career with the goal of merging my operational acumen with my growing expertise in full stack development, aiming to craft user-centric, efficient, and innovative web solutions. Eager to contribute my adaptability, problem-solving skills, and a strong operational background to a collaborative team of developers to create engaging and impactful web applications.</Text>
+          <Text> PROFESSIONAL EXPERIENCE </Text>
+          <Text></Text>
+        
         </View>
       </Page>
     </Document>

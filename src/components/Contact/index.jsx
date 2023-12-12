@@ -80,7 +80,7 @@ const Contact = () => {
     <div className="formShit">
     <form className="form" onSubmit={handleSubmit}>
       <div>
-        <label htmlFor="name">Name</label>
+        <label className="label" htmlFor="name">Name</label>
         <input
           type="text"
           id="name"
@@ -91,7 +91,7 @@ const Contact = () => {
         {formErrors.name && <p className="error">{formErrors.name}</p>}
       </div>
       <div>
-        <label htmlFor="email">Email</label>
+        <label className="label" htmlFor="email">Email</label>
         <input
           type="email"
           id="email"
@@ -102,7 +102,7 @@ const Contact = () => {
         {formErrors.email && <p className="error">{formErrors.email}</p>}
       </div>
       <div>
-        <label htmlFor="message">Message</label>
+        <label className="label" htmlFor="message">Message</label>
         <textarea
           id="message"
           name="message"
@@ -111,7 +111,7 @@ const Contact = () => {
         />
         {formErrors.message && <p className="error">{formErrors.message}</p>}
       </div>
-      <button type="submit">Submit</button>
+      <button className="btn" type="submit">Submit</button>
     </form>
     </div>
   )

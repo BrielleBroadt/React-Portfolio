@@ -1,6 +1,6 @@
 .form {
 border-radius: 5px;
-box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.6);
+box-shadow: 3px 3px 6px rgba(225, 231, 180, 0.6);
 padding: 3rem;
 display:flex;
 flex-direction: column;
@@ -14,4 +14,18 @@ margin-top: 10rem;
     display: flex;
     justify-content: center;
     padding: 2rem;
+}
+
+.btn {
+    background-color: gray;
+    border-color: bisque;
+    box-shadow:3px 3px 6px rgba(225, 231, 180, 0.6); ;
+}
+.button:hover {
+    background-color:antiquewhite;
+    color:bisque
+}
+
+.label {
+    border-color: bisque;
 }

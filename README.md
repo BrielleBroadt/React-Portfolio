@@ -1,13 +1,31 @@
-# React + Vite
+#  🍿 React Portfolio
+  
+## Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Developer portfolio created using React to 
 
 
-https://youtu.be/z0vaVoxMoSA?si=5KH6wpn2cQdTR5At
+## Table of Contents
 
-materialize
+* [Installation](#installation)<br>
+* [Usage](#usage)<br>
+* [Contact Information](#contact-information)<br>
+* [License](#license)
+
+
+
+
+
+## Installation
+https://shiny-faloodeh-ebdd79.netlify.app/projects
+Open the link to view the portfolio, no instalation needed
+
+
+## Usage
+![Screenshot 2023-12-11 201649](https://github.com/BrielleBroadt/React-Portfolio/assets/135186013/8e058540-368c-4a0d-a403-01d9b92bc70c)
+
+## Contact Information
+https://github.com/BrielleBroadt
+for email inquiries brielleb.broadt@gmail.com
+
+

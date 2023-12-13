@@ -17,7 +17,7 @@ Developer portfolio created using React to
 
 
 ## Installation
-https://shiny-faloodeh-ebdd79.netlify.app/projects
+https://shiny-faloodeh-ebdd79.netlify.app/
 Open the link to view the portfolio, no instalation needed
 
 

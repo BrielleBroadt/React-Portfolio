@@ -49,7 +49,7 @@ const Contact = () => {
     e.preventDefault();
     if (validateForm()) {
       // Send email using Email.js
-      emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', formData, 'YOUR_USER_ID')
+      emailjs.send('service_60c2w5m', 'template_4vptjz9', formData, '5I1O9hQMZbAQXSKAS')
         .then((response) => {
           console.log('Email sent!', response);
           // You can handle success messages or redirection after successful submission here

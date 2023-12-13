@@ -111,7 +111,7 @@ const Contact = () => {
         />
         {formErrors.message && <p className="error">{formErrors.message}</p>}
       </div>
-      <button className="btn" type="submit">Submit</button>
+      <button className="btn" type="submit" onClick={handleSubmit}>Submit</button>
     </form>
     </div>
   )
